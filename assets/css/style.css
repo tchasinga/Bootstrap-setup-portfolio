@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600;1,800&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  background: #e5e5e5;
+}
+
+.text-blue {
+  color: #6070ff;
+}
+
+.bg-new {
+  background: #ebebff;
+  font-weight: 400;
+}
+
+.nav-bar-menu {
+  background: #fff;
+}
+
+.nav-bar-menu .navbar-brand {
+  color: #6070ff;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.nav-bar-menu button {
+  border: none;
+}
+
+.nav-bar-menu ul a {
+  font-weight: 500;
+  font-size: 15px;
+  color: #344563;
+}
+
+.showcase {
+  background-color: #fff;
+  border-bottom-left-radius: 160px;
+}
+
+.showcase .container {
+  background-image: url("../images/desktop_bg.png");
+  background-size: contain;
+  background-position: center 48px;
+  background-repeat: no-repeat;
+  height: 846px;
+}
+
+.showcase .showcase-text {
+  max-width: 920px;
+  padding: 12rem 3rem;
+}
+
+.social li a {
+  color: #505f79;
+  margin-right: 10px;
+}
+
+.about {
+  border-top-right-radius: 160px;
+  background-color: #fff;
+  padding: 10rem 0;
+}
+
+/* footer */
+.foot {
+  background: #fff;
+}
+
+.footer {
+  background-image: url("../images/contact-bg.png");
+  border-top-left-radius: 180px;
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+  background-position: center 40px;
+  background-size: 90%;
+  height: 846px;
+}
+
+.footer .footer-text {
+  padding-top: 141px;
+}
