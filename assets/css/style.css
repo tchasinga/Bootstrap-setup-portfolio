@@ -6,73 +6,73 @@ body {
   background: #e5e5e5;
 }
 
-.text-blue {
+.text-Blur {
   color: #6070ff;
 }
 
-.bg-new {
+.back-code {
   background: #ebebff;
   font-weight: 400;
 }
 
-.nav-bar-menu {
+.nav-bar-Menu {
   background: #fff;
 }
 
-.nav-bar-menu .navbar-brand {
+.nav-bar-Menu .navbar-brand {
   color: #6070ff;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 17px;
 }
 
-.nav-bar-menu button {
+.nav-bar-Menu button {
   border: none;
 }
 
-.nav-bar-menu ul a {
+.nav-bar-Menu ul a {
   font-weight: 500;
   font-size: 15px;
-  color: #344563;
+  color: #2b384e;
 }
 
-.showcase {
+.ShiwingSide {
   background-color: #fff;
-  border-bottom-left-radius: 160px;
+  border-bottom-left-radius: 159px;
 }
 
-.showcase .container {
+.ShiwingSide .container {
   background-image: url("../images/desktop_bg.png");
   background-size: contain;
   background-position: center 48px;
   background-repeat: no-repeat;
-  height: 846px;
+  height: 844px;
 }
 
-.showcase .showcase-text {
+.ShiwingSide .showcase-text {
   max-width: 920px;
-  padding: 12rem 3rem;
+  padding: 11.9rem 2.9rem;
 }
 
-.social li a {
+.MasoloKozeri li a {
   color: #505f79;
   margin-right: 10px;
 }
 
-.about {
+.AboutMore {
   border-top-right-radius: 160px;
-  background-color: #fff;
-  padding: 10rem 0;
+  background-color: white;
+  padding: 9.9rem 0;
 }
 
-/* footer */
-.foot {
+
+.footSide {
   background: #fff;
 }
 
 .footer {
   background-image: url("../images/contact-bg.png");
   border-top-left-radius: 180px;
-  background-color: #6070ff;
+  background-color: #4353e0;
   background-repeat: no-repeat;
   background-position: center 40px;
   background-size: 90%;
